@@ -1,0 +1,98 @@
+.container-fluid{
+	margin: 0;
+	padding: 0;
+}
+
+.navbar{
+	border-radius: 0px;
+	background-color: darkslateblue;
+}
+
+.navbar-brand{
+  font-size: 35px;
+  color: white;
+  padding-left: 25px;
+}
+
+.navbar-brand:hover{
+	color: darkgray;
+}
+
+.nav{
+	margin: 0;
+	padding: 0;
+}
+
+.navbar-nav{
+  font-size: 30px;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-toggle{
+	border: 1px solid white;
+	margin-right: 25px;
+}
+
+.icon-bar{
+	background-color: white;
+
+}
+
+
+.main-title{
+  margin-bottom: 15px;
+  text-align: center;
+  color: #ff4532;
+  font-size: 50px;
+  font-family: helvetica, montserrat, arial;
+  font-weight: semibold;
+}
+
+li{
+	box-sizing: border-box;
+	width: 100%;
+}
+
+.menu-item{
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	background-color: white;
+	border-bottom: 1px solid black;
+	color: black;
+	display: block;
+}
+
+.menu-item:hover{
+	background-color: darkgray;
+	color: darkgray;
+}
+
+
+
+.row{
+	margin: 20px;
+}
+
+.content-box{
+	margin: 20px;
+	width: auto;
+	height: auto;
+	color: black;
+	background-color: darkgray;
+	font-family: helvetica, montserrat, arial;
+	border: 1px solid black;
+	padding: 20px;
+}
+
+.item-name{
+	text-align: center;
+	font-size: 25px;
+	font-weight: medium;
+	font-family: helvetica, montserrat, arial;
+}
+
+#top{
+}
