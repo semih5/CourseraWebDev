@@ -4,8 +4,8 @@
 	var bySpeaker =  {};
 
 	bySpeaker.speak = function (name) {
-  console.log(speakWord + " " + name);
+  	console.log(speakWord + " " + name);
 	}
-  window.bySpeaker = bySpeaker;
+  	window.bySpeaker = bySpeaker;
 
 })(window);
